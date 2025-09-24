@@ -27,7 +27,7 @@ const MyDetails = () => {
 
         <div className="mt-12 flex  flex-col  gap-4 justify-center md:justify-start">
           <a
-            href="tel:0764536167"
+            href="tel:+46764536167"
             aria-label="Phone"
             className=" px-6 py-3 w-[200px] ml-8 rounded-xl border border-gray-300 bg-blue-100 text-gray-800 text-center font-semibold shadow-lg hover:bg-blue-200 transition flex items-center justify-center gap-2"
           >
