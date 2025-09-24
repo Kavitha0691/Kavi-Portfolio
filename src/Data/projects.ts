@@ -16,7 +16,7 @@ export const projects: Project[] = [
         title: "Australia Zoo",
         description:
             "An animal explorer app built with React and React Router, featuring category-based browsing, detailed animal cards, and animated slideshows using Framer Motion. Fully responsive and styled with CSS Modules.",
-        tech: ["Next.js", "React", "React Router", "Framer Motion", "CSS Modules", "JavaScript"],
+        tech: ["React", "React Router", "Framer Motion", "CSS Modules", "JavaScript"],
         desktop: "/Australia-zoo-desktop.png",
         mobile: "/Australia-zoo-mobile.png",
         video: "/australia-zoo.mp4",
