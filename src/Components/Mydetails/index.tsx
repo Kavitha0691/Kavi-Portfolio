@@ -38,7 +38,7 @@ const MyDetails = () => {
             href="#projects"
             className="px-6 py-3 w-[200px] ml-8 rounded-xl border border-gray-400 bg-gradient-to-r from-green-50 via-white to-green-50 text-black text-center font-semibold shadow-lg hover:bg-blue-200 transition"
           >
-            <span className="hover:text-red-900 hover:underline ml-1 capitalize">my project</span>
+            <span className="hover:text-red-900 hover:underline ml-1 capitalize">my projects</span>
           </a>
 
         </div>
