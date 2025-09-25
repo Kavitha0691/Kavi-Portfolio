@@ -29,16 +29,16 @@ const MyDetails = () => {
           <a
             href="tel:+46764536167"
             aria-label="Phone"
-            className=" px-6 py-3 w-[200px] ml-8 rounded-xl border border-gray-300 bg-blue-100 text-gray-800 text-center font-semibold shadow-lg hover:bg-blue-200 transition flex items-center justify-center gap-2"
+            className=" px-6 py-3 w-[200px] ml-8 rounded-xl border border-gray-400 bg-gradient-to-r from-green-50 via-white to-green-50 text-gray-800 text-center font-semibold shadow-lg hover:bg-blue-200 transition flex items-center justify-center gap-2"
           >
             <FaPhone className="w-5 h-5" />: 
-            <span className="hover:text-red-900 hover:underline ml-1">0764536167</span>
+            <span className="hover:text-red-900 hover:underline ml-1">+46764536167</span>
           </a>
           <a
             href="#projects"
-            className="px-6 py-3 w-[200px] ml-8 rounded-xl border border-gray-300 bg-blue-100 text-black text-center font-semibold shadow-lg hover:bg-blue-200 transition"
+            className="px-6 py-3 w-[200px] ml-8 rounded-xl border border-gray-400 bg-gradient-to-r from-green-50 via-white to-green-50 text-black text-center font-semibold shadow-lg hover:bg-blue-200 transition"
           >
-            My Projects
+            <span className="hover:text-red-900 hover:underline ml-1 capitalize">my project</span>
           </a>
 
         </div>

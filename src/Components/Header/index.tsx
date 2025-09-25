@@ -2,7 +2,7 @@ import MyDetails from "../Mydetails";
 
 export default function Header() {
   return (
-    <section className="grid md:grid-cols-[380px_1fr] min-h-screen bg-gradient-to-r from-indigo-50 via-white to-indigo-100 dark:from-gray-900 dark:via-gray-800 dark:to-gray-900 px-6 pt-12 gap-12">
+    <section className="grid md:grid-cols-[380px_1fr] min-h-screen bg-white px-6 pt-12 gap-12">
       <MyDetails />
       <div className="max-w-3xl text-center md:text-left">
         <h1 className="text-4xl md:text-5xl font-bold text-gray-900 dark:text-white mb-12 ">
@@ -20,7 +20,7 @@ export default function Header() {
           and <strong>TypeScript</strong>. I bring both creativity and technical expertise.
           Whether in team-driven projects or solo work, I thrive on learning fast and delivering results.
         </p>
-        <div className="mt-6 p-6 bg-indigo-50 dark:bg-indigo-900/40 rounded-xl  leading-loose shadow-sm text-left">
+        <div className="mt-6 p-6 bg-gradient-to-r from-white via-green-50 to-white rounded-xl  leading-loose shadow-xl border border-gray-300 text-left">
           <p className="text-gray-800 dark:text-gray-200 mb-2">
             <span className="font-bold capitalize"> looking for : </span> 5-month internship
           </p>
