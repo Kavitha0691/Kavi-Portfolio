@@ -22,6 +22,18 @@ export const projects: Project[] = [
         video: "/australia-zoo.mp4",
         link: "https://australia-zoo-seven.vercel.app/",
     },
+
+     {
+        title: "FullStack Social Media App",
+        description:
+            "A social media platform where users can create accounts, post content, like and comment on posts, and follow other users. Built with React and TypeScript for the frontend, Tailwind CSS for styling, Supabase and PostgreSQL for the backend, and TanStack Query for efficient data fetching and state management. Fully responsive and user-friendly across devices.",
+        tech: ["React", "TypeScript", "Tailwind CSS", "Supabase", "PostgreSQL", "TanStack Query"],
+        desktop: "/media-desktop.png",
+        mobile: "/media-mobile.png",
+        video: "/media.mp4",
+        link: "https://school-app-alpha-three.vercel.app/",
+    },
+
     {
         title: "Adventure Land",
         description:
