@@ -1,6 +1,16 @@
 import { Project } from "./types";
 
 export const projects: Project[] = [
+        {
+        title: "Peakster App",
+        description:
+            " Peakster is a full-stack web application that allows users to book complete ski vacation packages - including accommodations, ski passes, and equipment rentals - all in one seamless experience. The platform features multi-language support, real-time cart synchronization, and a secure authentication system.",
+        tech: ["Next.js", "React", "TypeScript", "Tailwind", "Supabase(Auth & Database)", "PostgreSQL", "React Hook form + zod", "React Tanstack Query", "Custom Language Context"],
+        desktop: "/peakster-desktop.png",
+        mobile: "/peakster-mobile.png",
+        video: "/peakster.mp4",
+        link: "https://peakster-app.vercel.app/",
+    },
     {
         title: "Crave - Meal-DB Dynamic Context",
         description:
