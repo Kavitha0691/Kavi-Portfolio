@@ -15,7 +15,7 @@ export default function Header() {
         <p className="mt-2 text-lg text-gray-700 dark:text-gray-300  leading-loose ">
          I design and build responsive, high-performing web applications with a strong focus on clean code, accessibility, and user experience. With hands-on project experience in <strong>Microfrontend Architecture, React, Next.js, TypeScript, JavaScript, Tailwind CSS, SASS, PostGreSQL. </strong> I bring both creativity and technical expertise.
 
-Currently interning at <strong> Dstny SE,</strong> where I am part of the web team developing an organizational communication platform. I work with<strong> microfrontend architecture</strong> using <strong>pnpm</strong> workspaces, contributing to a production-level codebase. I am fully integrated into the Agile development process — participating in sprint planning, daily standups, code reviews, refinement sessions, and architectural strategy meetings with senior developers.
+Completed my internship at <strong> Dstny SE,</strong> where I was part of the web team developing an organizational communication platform. I work with<strong> microfrontend architecture</strong> using <strong>pnpm</strong> workspaces, contributing to a production-level codebase. I am fully integrated into the Agile development process — participating in sprint planning, daily standups, code reviews, refinement sessions, and architectural strategy meetings with senior developers.
 
 Whether in team-driven projects or solo work, I thrive on learning fast and delivering results.
         </p>
@@ -27,8 +27,7 @@ Whether in team-driven projects or solo work, I thrive on learning fast and deli
             <span className="font-bold capitalize">would be good fit for : </span> Frontend · Fullstack
           </p>
           <p className="text-gray-800 dark:text-gray-200 mb-2">
-            <span className="font-bold capitalize">Availability:  </span> Immediately after internship
-          </p>
+            <span className="font-bold capitalize">Availability:  </span> Immediately  </p>
           <p className="text-gray-800 dark:text-gray-200 ">
             <span className="font-bold capitalize"> work mode : </span> Onsite · Remote · Hybrid (Flexible)
           </p>
