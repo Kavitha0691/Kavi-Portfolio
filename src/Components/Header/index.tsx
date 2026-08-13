@@ -9,7 +9,7 @@ export default function Header() {
           Kavitha Ganesan
         </h1>
         <h2 className="mt-2 text-2xl font-semibold text-gray-800 dark:text-gray-300">
-          Frontend Developer Intern @ Dstny SE 
+          Frontend Developer 
         </h2>
 
         <p className="mt-2 text-lg text-gray-700 dark:text-gray-300  leading-loose ">
